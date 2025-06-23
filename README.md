@@ -1,2 +1,2 @@
 # e-library
-search and find books
+This only give you the preview of the book 
